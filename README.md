@@ -27,4 +27,7 @@ Currently enrolled in **Governor IT Initiative** and **SMIT**, focusing on **Age
 
 ![Muzaffar's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuzaffarAli13&show_icons=true&theme=radical) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuzaffarAli13&layout=compact&theme=radical)
+## 📈 Contribution Graph:
+
+![Muzaffar's GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=MuzaffarAli13&theme=radical)
 
