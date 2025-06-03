@@ -24,7 +24,13 @@ Currently enrolled in **Governor IT Initiative** and **SMIT**, focusing on **Age
 - 🐦 X (Twitter): [@muzafark_ali](https://x.com/muzafark_ali?t=D3m5eyVd-toFI-_0Y96_aA&s=09)  
 
 ---
+## 📊 GitHub Stats:
 
-![Muzaffar's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuzaffarAli13&show_icons=true&theme=radical) 
+![Muzaffar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuzaffarAli13&show_icons=true&theme=radical)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuzaffarAli13&layout=compact&theme=radical)
-https://github-readme-stats.vercel.app/api?username=MuzaffarAli13&show_icons=true&theme=radical
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MuzaffarAli13&theme=radical)
+
+![Muzaffar's Contributions](https://github-contribution-graph.ez4o.com/?username=MuzaffarAli13&theme=radical)
+
