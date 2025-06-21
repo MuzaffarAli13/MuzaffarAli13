@@ -16,7 +16,7 @@ Currently enrolled in **Governor IT Initiative** and **SMIT**, focusing on **Age
 - **Others:** Open Source Contribution, UI/UX Design, AI Technologies  
 
 ## 📫 Connect with me:
-- 🌐 Portfolio: ([https://muzafar-ali-portfolio.vercel.app/])  
+- 🌐 Portfolio: https://muzafar-ali-portfolio.vercel.app/  
 - ▶️ YouTube: [Muzaffar IT Academy](https://youtube.com/@muzaffaritacademy)  
 - 🔗 LinkedIn: [Muzaffar Ali](https://www.linkedin.com/in/muzaffar-ali-0b3939315/)  
 - 📘 Facebook Profile: [Link](https://www.facebook.com/profile.php?id=100093557110026)  
