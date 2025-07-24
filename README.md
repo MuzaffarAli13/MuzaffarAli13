@@ -31,17 +31,11 @@ Currently enrolled in **Governor IT Initiative** and **SMIT**, focusing on **Age
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MuzaffarAli13&theme=radical)
 
-![Muzaffar's Contributions](https://github-contribution-graph.ez4o.com/?username=MuzaffarAli13&theme=radical)
 
-<br />
-  <!-- Top Languages -->
-  <a href="#">
-    <img alt="Muzaffar Ali Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuzaffarAli13&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=FF1493&icon_color=FF1493" height="200px" width="450px" />
-  </a>
-</div>
+
 
 <br />
 
-![Rida's GitHub activity graph]( https://github-readme-activity-graph.vercel.app/graph?username=MuzaffarAli13&theme=react-dark&area=true&hide_border=true#gh-light-mode-only)
+![Muzaffar Ali GitHub activity graph]( https://github-readme-activity-graph.vercel.app/graph?username=MuzaffarAli13&theme=react-dark&area=true&hide_border=true#gh-light-mode-only)
 
 
